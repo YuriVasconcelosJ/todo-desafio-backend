@@ -41,7 +41,7 @@ A API poderá ser acessada em [localhost:8080](http://localhost:8080).
 ---
 
 **URL:** `http://localhost:8080/todos`  
-**Método** `POST`
+**Método:** `POST`
 **BODY (JSON):**
 
 ```json
@@ -66,7 +66,7 @@ A API poderá ser acessada em [localhost:8080](http://localhost:8080).
 ---
 
 **URL:** `http://localhost:8080/todos/{id}`  
-**Método** `PUT`
+**Método:** `PUT`
 **BODY (JSON):**
 
 ```json
@@ -84,4 +84,4 @@ A API poderá ser acessada em [localhost:8080](http://localhost:8080).
 ---
 
 **URL:**`http://localhost:8080/todos/{id}`
-**Método**`DELETE`
+**Método:**`DELETE`
