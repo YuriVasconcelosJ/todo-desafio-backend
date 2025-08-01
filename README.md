@@ -40,8 +40,8 @@ A API poderá ser acessada em [localhost:8080](http://localhost:8080).
 
 ---
 
-**URL:** `http://localhost:8080/todos`  
-**Método:** `POST`
+**URL:** `http://localhost:8080/todos`<br>
+**Método:** `POST`<br>
 **BODY (JSON):**
 
 ```json
@@ -58,15 +58,15 @@ A API poderá ser acessada em [localhost:8080](http://localhost:8080).
 
 ---
 
-**URL:** `http://localhost:8080/todos`
-**Método:**`GET`
+**URL:** `http://localhost:8080/todos`<br>
+**Método:**`GET`<br>
 
 ### Atualizar Tarefa(PUT):
 
 ---
 
-**URL:** `http://localhost:8080/todos/{id}`  
-**Método:** `PUT`
+**URL:** `http://localhost:8080/todos/{id}`<br>
+**Método:** `PUT`<br>
 **BODY (JSON):**
 
 ```json
@@ -83,5 +83,5 @@ A API poderá ser acessada em [localhost:8080](http://localhost:8080).
 
 ---
 
-**URL:**`http://localhost:8080/todos/{id}`
+**URL:**`http://localhost:8080/todos/{id}`<br>
 **Método:**`DELETE`
